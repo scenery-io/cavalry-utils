@@ -1,0 +1,15 @@
+{
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"],
+	"compilerOptions": {
+		"types": ["@scenery/cavalry-types"],
+		"allowImportingTsExtensions": true,
+		"moduleResolution": "nodenext",
+		"moduleDetection": "auto",
+		"esModuleInterop": true,
+		"module": "nodenext",
+		"target": "es2020",
+		"noEmit": true,
+		"strict": true
+	}
+}

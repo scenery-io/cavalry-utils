@@ -1,0 +1,22 @@
+{
+	"name": "@scenery/cavalry-utils",
+	"version": "0.1.0",
+	"description": "Utility functions for Cavalry scripts",
+	"main": "index.ts",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/scenery-io/cavalry-utils.git"
+	},
+	"bugs": {
+		"url": "https://github.com/scenery-io/cavalry-utils/issues"
+	},
+	"homepage": "https://github.com/scenery-io/cavalry-utils#readme",
+	"devDependencies": {
+		"@scenery/cavalry-types": "^0.5.0",
+		"prettier": "^3.3.3"
+	}
+}
