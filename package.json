@@ -17,6 +17,6 @@
 	"homepage": "https://github.com/scenery-io/script-utils#readme",
 	"devDependencies": {
 		"@scenery/cavalry-types": "^0.5.0",
-		"prettier": "^3.3.3"
+		"prettier": "^3.2.5"
 	}
 }
