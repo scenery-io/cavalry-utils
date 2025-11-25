@@ -10,3 +10,5 @@ export {
 	NumericField,
 	PreferredSide,
 } from './src/enums.ts'
+export { NamedPageView } from './src/NamedPageView.ts'
+export { Hint } from './src/Hint.ts'
